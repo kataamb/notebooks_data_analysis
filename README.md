@@ -18,5 +18,5 @@
 ### Ключевые графики
 График корелляции числовых признаков и целевой переменной (цены):
 ![График корелляции числовых признаков и целевой переменной (цены)](https://github.com/kataamb/notebooks_data_analysis/blob/main/kaggle_automobile_prices/img/number_corellation.jpg)
-График распределнния цены по типам категориальных признаков:
+График распределения цены по типам категориальных признаков:
 ![График распределнния цены по типам категориальных признаков](https://github.com/kataamb/notebooks_data_analysis/blob/main/kaggle_automobile_prices/img/raspr_categorial.png)
